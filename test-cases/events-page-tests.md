@@ -7,7 +7,7 @@
 **Test Steps:**
 
 | Step | Action | Data | Expected Result |
-| :--- | :--- | :--- | :--- |
+| :---: | :--- | :---: | :--- |
 | 1 | Hover over the burger menu icon. | - | The cursor changes into a pointer. |
 | 2 | Click the burger menu icon. | - | Menu pop-up with navigation links opens. The burger menu icon animates and changes into a "cross" (close) icon. |
 | 3 | Hover over the "cross" (close) icon. | - | The cursor changes into a pointer. |
