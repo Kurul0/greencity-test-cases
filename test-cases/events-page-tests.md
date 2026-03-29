@@ -36,5 +36,5 @@
 
 | Step | Action | Data | Expected Result |
 | :---: | :--- | :---: | :--- |
-| 1 | Click on the Email input field <br>and enter an email address containing <br>Cyrillic characters. | `пошта@gmail.com` | The input is accepted in the field. |
-| 2 | Click anywhere outside the Email field (remove focus). | - | An error message 'Please check that your e-mail <br>address is indicated correctly' <br>appears under the field.<br>The 'Sign Up' submit button becomes disabled. |
+| 1 | Click on the Email input field and enter an email address containing Cyrillic characters. | `пошта@gmail.com` | The input is accepted in the field. |
+| 2 | Click anywhere outside the Email field (remove focus). | - | An error message 'Please check that your e-mail address is indicated correctly' appears under the field.<br>The 'Sign Up' submit button becomes disabled. |
