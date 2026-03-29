@@ -1,7 +1,7 @@
 ## [GC-001]: Verify opening, closing, and hover states of the burger menu on a narrowed desktop browser
 
 **Preconditions:**
-1. User is on the GreenCity Events page (https://www.greencity.cx.ua/#/greenCity/events), using a desktop browser.
+1. User is on the GreenCity Events page, using a desktop browser.
 2. The desktop browser window width is reduced until the main header navigation collapses and the burger menu icon appears.
 
 **Test Steps:**
