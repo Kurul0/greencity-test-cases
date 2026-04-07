@@ -9,9 +9,12 @@ The project focuses on analyzing the following key system aspects:
 - Navigation behavior (burger menu) on narrowed desktop viewports.
 - System state handling during unauthorized user interaction with restricted features.
 - Error handling for invalid data formats (Cyrillic characters in the Email input field).
-- 
+- Viewport positioning during page loading.
+- Button functionality and redirection.
 
-**Test Object:** [GreenCity Events Page](https://www.greencity.cx.ua/#/greenCity/events)
+
+
+**Test Object:** [GreenCity Website](https://www.greencity.cx.ua/#/greenCity)
 
 > **Note:** GC stands for the GreenCity project key, and the following numbers represent the sequential ID for test cases and bug reports.
 
