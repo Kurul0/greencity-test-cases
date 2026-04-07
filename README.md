@@ -1,6 +1,4 @@
-# Manual Testing: GreenCity Events Page
-
-This repository contains the practical implementation of the manual testing process for the GreenCity web application.
+# Manual Testing: GreenCity Website
 
 ### Project Overview
 **Objective:** To perform manual testing of the public-facing features on the About Us and Events pages on the GreenCity website, and to design structured documentation.
