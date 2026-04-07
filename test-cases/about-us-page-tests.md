@@ -59,5 +59,5 @@
 
 | Step | Action | Data | Expected Result |
 | :---: | :--- | :--: | :--- |
-| 1 | Hover over the 'Form habit' button**. | - | The cursor changes into a pointer. |
+| 1 | Hover over the 'Form habit' button. | - | The cursor changes into a pointer. |
 | 2 | Click the 'Form habit' button. | - | The user is redirected to the GreenCity Home page.<br>The 'Sign in / Sign up' pop-up appears. |
