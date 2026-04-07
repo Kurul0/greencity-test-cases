@@ -37,4 +37,26 @@
 | Step | Action | Data | Expected Result |
 | :---: | :--- | :--: | :--- |
 | 1 | Hover over the 'Find eco places' button. | - | The cursor changes into a pointer. |
-| 2 | Click the 'Find eco places' button. | - | The user is navigated to the 'Places' (Map) page.<br>The 'Sign in / Sign up' pop-up appears automatically. |
+| 2 | Click the 'Find eco places' button. | - | The user is navigated to the 'Places' (Map) page.<br>The 'Sign in / Sign up' pop-up appears. |
+
+---
+
+## [GC-006] Verify navigation of the 'Form habit' button on the 'About us' page
+
+| Info | Value |
+| :--- | :--- |
+| **Created** | 2026-04-07 |
+| **Last Executed** | 2026-04-07 |
+| **Status** | Failed |
+| **Environment** | Firefox v.149, Windows 10 |
+
+**Preconditions:**
+1. User is not logged in.
+2. User is on the GreenCity 'About us' page.
+
+**Test Steps:**
+
+| Step | Action | Data | Expected Result |
+| :---: | :--- | :--: | :--- |
+| 1 | Hover over the 'Form habit' button**. | - | The cursor changes into a pointer. |
+| 2 | Click the 'Form habit' button. | - | The user is redirected to the GreenCity Home page.<br>The 'Sign in / Sign up' pop-up appears. |
