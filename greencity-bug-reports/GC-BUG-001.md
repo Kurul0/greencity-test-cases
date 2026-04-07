@@ -19,7 +19,7 @@
 
 **Attachments:** <img width="1280" height="749" alt="зображення" src="https://github.com/user-attachments/assets/9cdc8f3e-5999-47a8-8911-4e95e7b901e3" />
 
-**Additional Notes / Investigation:** The position of the viewport upon loading follows a specific pattern depending on the previous page:
-* If navigated from the **Home page** or **EcoNews page**, the viewport is positioned at the second item: *"Eco products are too expensive"*.
-* If navigated from the **Events page**, the viewport is positioned at the first item: *"I don’t have time to look for eco stores"*.
-This suggests an issue with anchor tags or router scroll memory between page transitions.
+**Additional Notes:** The position of the viewport upon loading follows a specific pattern depending on the previous page:
+* If navigated from the Home page or EcoNews page, the viewport is positioned at the second item: *"Eco products are too expensive"*.
+* If navigated from the Events page, the viewport is positioned at the first item: *"I don’t have time to look for eco stores"*.
+Probably there is an issue with anchor tags or router scroll memory between page transitions.
