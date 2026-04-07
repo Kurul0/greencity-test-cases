@@ -1,8 +1,15 @@
 ## [GC-001]: Verify opening, closing, and hover states of the burger menu on a narrowed desktop browser
 
+| Info | Value |
+| :--- | :--: |
+| **Created** | 2026-03-29 |
+| **Last Executed** | 2026-03-29 |
+| **Status** | Passed |
+| **Environment** | Firefox v.149, Windows 10, Narrowed Viewport |
+
 **Preconditions:**
-1. User is on the GreenCity Events page, using a desktop browser.
-2. The desktop browser window width is reduced until the main header navigation collapses and the burger menu icon appears.
+1. User is on the GreenCity Events page.
+2. he browser window is narrowed until the main header navigation collapses and the burger menu icon appears.
 
 **Test Steps:**
 
@@ -14,6 +21,13 @@
 | 4 | Click the 'cross' (close) icon. | - | Menu pop-up closes. <br>The 'cross' icon animates back into <br>a burger menu icon. |
 
 ## [GC-002]: Verify that an unauthorized user cannot react (like) a comment
+
+| Info | Value |
+| :--- | :--: |
+| **Created** | 2026-03-29 |
+| **Last Executed** | 2026-03-29 |
+| **Status** | Passed |
+| **Environment** | Firefox v.149, Windows 10 |
 
 **Preconditions:**
 1. User is not logged in.
@@ -27,6 +41,13 @@
 | 2 | Click the 'Like' button. | - | A 'Log In' / 'Sign In' pop-up window appears. <br>The reaction count on the comment does not increase. |
 
 ## [GC-003]: Verify system rejects Cyrillic characters in the Email input field during Sign Up
+
+| Info | Value |
+| :--- | :--: |
+| **Created** | 2026-03-29 |
+| **Last Executed** | 2026-03-29 |
+| **Status** | Passed |
+| **Environment** | Firefox v.149, Windows 10 |
 
 **Preconditions:**
 1. User is not logged in.
