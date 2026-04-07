@@ -20,6 +20,8 @@ The project focuses on analyzing the following key system aspects:
 - [[GC-005]](test-cases/about-us-page-tests.md): Verify navigation of the 'Find eco places' button on the 'About us' page (Status: **Passed**)
 - [[GC-006]](test-cases/about-us-page-tests.md): Verify navigation of the 'Form habit' button on the 'About us' page (Status: **Failed**)
 
+6 Tests | 4 Passed | 2 Failed
+
 **Test Object:** [GreenCity Website](https://www.greencity.cx.ua/#/greenCity)
 
 > **Note:** GC stands for the GreenCity project key, and the following numbers represent the sequential ID for test cases and bug reports.
